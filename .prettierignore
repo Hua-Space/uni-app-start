@@ -1,0 +1,5 @@
+node_modules/*
+/public/*
+/dist/*
+/src/uni_modules/*
+/node_modules/*
